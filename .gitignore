@@ -3,7 +3,3 @@ node_modules/
 .expo-shared/
 dist/
 web-build/
-# 移除旧的 Python 产物
-data/filament_data.json
-__pycache__/
-*.pyc
